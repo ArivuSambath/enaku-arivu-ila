@@ -1,1 +1,2 @@
-console,console.log("Arivu");
+console.log("Arivu"); 
+console.log("Arivu1"); 
